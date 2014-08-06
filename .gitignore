@@ -3,3 +3,5 @@ bin
 dist/
 build/
 target
+.nrepl-port
+.lein-repl-history
