@@ -15,5 +15,3 @@
 
 (defn -main []
   (four-liner))
-
-(four-liner)
